@@ -1,2 +1,2 @@
 # Anu
-this ti learn to git learning 
+this is learn to git learning 
